@@ -33,14 +33,7 @@
 <body>
    
     <div class="container-fluid">
-    
-<!--    Navbar-->
-    
-    
-    
-    
-    
-    
+      
 <!--    Home section begins-->
         
          <section class="home-section" id="cafe">
@@ -60,23 +53,23 @@
     <section id="menu" class="section-menu">
         <div class="container">
             <div class="menu-section promotion">
-                <div class="menu-image">
+                <div class="menu-image wow bounceInUp" data-wow-delay="0s">
                     <img src="Images/happy-hour_1.png" alt="Happy hour" class="img-responsive">
                 </div>
             </div>
             <hr>
             <div class="seperator"></div>
             <div class="row" id="menu-dish">
-                <div class="col-md-7 col-sm-7" id="food">
+                <div class="col-md-7 col-sm-7 wow rotateIn" id="food">
                     <img src="Images/dish1.jpg" alt="Dish" class="img-responsive">
                 </div>
                  <div class="seperator"></div>
                 <div class="col-md-5 col-sm-5">
                     <div class="menu-item">
-                        <p class="product-name font-bg">Niji salad</p>
-                        <p class="product-price font-bg">£7.00</p>
+                        <p class="product-name font-bg wow rotateIn" data-wow-delay="0.2s">Niji salad</p>
+                        <p class="product-price font-bg wow rotateIn" data-wow-delay="0.3s">£7.00</p>
                         <div class="seperator"></div>
-                        <div class="hide-image">
+                        <div class="hide-image wow rotateIn" data-wow-delay="0.4s">
                             <img src="Images/dish2.jpg" alt="Dish2" class="img-responsive">
                         </div>
                     </div>
@@ -87,7 +80,7 @@
             <div class="row" >
                 <div class="dish-2">
                     <div class="col-md-5 col-sm-5">
-                    <div class="menu-item-2">
+                    <div class="menu-item-2 wow slideInLeft">
                         <p class="product-name font-bg">Chicken katsu sandwich</p>
                         <p class="product-price font-bg">£7.00</p>
                         <div class="seperator"></div>
@@ -96,7 +89,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-7 col-sm-7">
+                <div class="col-md-7 col-sm-7 wow lightSpeedIn">
                    
                     <img src="Images/bread2.jpg" alt="" class="img-responsive">
                 </div>
@@ -106,16 +99,16 @@
           <div class="seperator"></div>
 <!--          Dish 3-->
            <div class="row" id="menu-dish">
-                <div class="col-md-7 col-sm-7">
+                <div class="col-md-7 col-sm-7 wow rotateInUpRight">
                     <img src="Images/dish3.jpg" alt="Dish" class="img-responsive">
                 </div>
                  <div class="seperator"></div>
                 <div class="col-md-5 col-sm-5">
                     <div class="menu-item-3">
-                        <p class="product-name font-bg">Avocado Halloumi sandwich</p>
-                        <p class="product-price font-bg">£7.00</p>
+                        <p class="product-name font-bg wow rotateIn" data-wow-delay="0.2s">Avocado Halloumi sandwich</p>
+                        <p class="product-price font-bg wow rotateIn" data-wow-delay="0.3s">£7.00</p>
                         <div class="seperator"></div>
-                        <div class="hide-image">
+                        <div class="hide-image wow zoomInLeft" data-wow-delay="0.4s">
                             <img src="Images/dish4.jpg" alt="Dish2" class="img-responsive">
                         </div>
                     </div>
@@ -130,18 +123,18 @@
                 <div class="dish-2">
                     <div class="col-md-5 col-sm-5">
                     <div class="menu-item-4">
-                        <p class="product-name font-bg">Taco rice</p>
-                        <p class="product-price font-bg">£9.00</p>
+                        <p class="product-name font-bg wow rollIn" data-wow-delay="0.2s">Taco rice</p>
+                        <p class="product-price font-bg wow rollIn" data-wow-delay="0.3s">£9.00</p>
                         <div class="seperator"></div>
-                        <div class="hide-image">
+                        <div class="hide-image wow rollIn" data-wow-delay="0.4s">
                             <img src="Images/dish8.jpg" alt="Dish2" class="img-responsive">
                         </div>
                     </div>
                         
                 </div>
-                <div class="col-md-7 col-sm-7">
+                <div class="col-md-7 col-sm-7 wow flipInX">
                   
-                    <img src="Images/dish7.jpg" alt="" class="img-responsive">
+                    <img src="Images/dish7.jpg" alt="Egg dish" class="img-responsive">
                 </div>
                 </div>
                 
@@ -172,16 +165,16 @@
                 <div class="dish-2">
                     <div class="col-md-5 col-sm-5">
                     <div class="menu-item-4">
-                        <p class="product-name font-bg">Scandinavian breakfast</p>
-                        <p class="product-price font-bg">£8.00</p>
+                        <p class="product-name font-bg wow rotateIn" data-wow-delay="0.2s">Scandinavian breakfast</p>
+                        <p class="product-price font-bg wow rotateIn" data-wow-delay="0.3s">£8.00</p>
                         <div class="seperator"></div>
-                        <div class="hide-image">
+                        <div class="hide-image wow rotateInDownRight" data-wow-delay="0.4s">
                             <img src="Images/dish12.jpg" alt="Dish2" class="img-responsive">
                         </div>
                     </div>
                         
                 </div>
-                <div class="col-md-7 col-sm-7">
+                <div class="col-md-7 col-sm-7 wow flip">
                   
                     <img src="Images/dish11.jpg" alt="" class="img-responsive">
                 </div>
@@ -193,16 +186,16 @@
           <div class="seperator"></div>              
              
             <div class="row" id="menu-dish">
-                <div class="col-md-7 col-sm-7">
+                <div class="col-md-7 col-sm-7 wow flipInY">
                     <img src="Images/dish13.jpg" alt="Dish" class="img-responsive">
                 </div>
                  <div class="seperator"></div>
                 <div class="col-md-5 col-sm-5">
                     <div class="menu-item-6">
-                        <p class="product-name font-bg">Chicken curry</p>
-                        <p class="product-price font-bg">£8.00</p>
+                        <p class="product-name font-bg wow rotateIn" data-wow-delay="0.2s">Chicken curry</p>
+                        <p class="product-price font-bg wow rotateIn" data-wow-delay="0.3s">£8.00</p>
                         <div class="seperator"></div>
-                        <div class="hide-image">
+                        <div class="hide-image wow rotateInUpLeft" data-wow-delay="0.4s">
                             <img src="Images/dish14.jpg" alt="Dish2" class="img-responsive">
                         </div>
                     </div>
@@ -217,15 +210,15 @@
                 <div class="dish-2">
                     <div class="col-md-5 col-sm-5">
                     <div class="menu-item-2">
-                        <p class="product-name font-bg">Shrimp katsu sandwich</p>
-                        <p class="product-price font-bg">£7.00</p>
+                        <p class="product-name font-bg wow fadeInDownBig" data-wow-delay="0.2s">Shrimp katsu sandwich</p>
+                        <p class="product-price font-bg wow fadeInDownBig" data-wow-delay="0.3s">£7.00</p>
                         <div class="seperator"></div>
-                        <div class="hide-image">
+                        <div class="hide-image wow fadeInDownBig" data-wow-delay="0.4s">
                             <img src="Images/dish16.jpg" alt="Dish2" class="img-responsive">
                         </div>
                     </div>
                 </div>
-                <div class="col-md-7 col-sm-7">
+                <div class="col-md-7 col-sm-7 wow rotateIn">
                    
                     <img src="Images/dish15.jpg" alt="" class="img-responsive">
                 </div>
@@ -238,16 +231,16 @@
         <!--          Dish 8-->
 
             <div class="row" id="menu-dish">
-                <div class="col-md-7 col-sm-7">
+                <div class="col-md-7 col-sm-7 wow flipInY">
                     <img src="Images/dish17.jpg" alt="Dish" class="img-responsive">
                 </div>
                  <div class="seperator"></div>
                 <div class="col-md-5 col-sm-5">
                     <div class="menu-item-5">
-                        <p class="product-name font-bg">Grilled cheese sandwich</p>
-                        <p class="product-price font-bg">£6.00</p>
+                        <p class="product-name font-bg wow lightSpeedIn" data-wow-delay="0.2s">Grilled cheese sandwich</p>
+                        <p class="product-price font-bg wow lightSpeedIn" data-wow-delay="0.3s">£6.00</p>
                         <div class="seperator"></div>
-                        <div class="hide-image">
+                        <div class="hide-image wow lightSpeedIn" data-wow-delay="0.4s">
                             <img src="Images/dish18.jpg" alt="Dish2" class="img-responsive">
                         </div>
                     </div>
@@ -261,16 +254,16 @@
              <div class="row" >
                 <div class="dish-2">
                     <div class="col-md-5 col-sm-5">
-                    <div class="menu-item-2">
-                        <p class="product-name font-bg">Bircher muesli</p>
-                        <p class="product-price font-bg">£5.50</p>
+                    <div class="menu-item-2 wow lightSpeedIn">
+                        <p class="product-name font-bg wow lightSpeedIn" data-wow-delay="0.2s">Bircher muesli</p>
+                        <p class="product-price font-bg wow lightSpeedIn" data-wow-delay="0.3s">£5.50</p>
                         <div class="seperator"></div>
-                        <div class="hide-image">
+                        <div class="hide-image wow lightSpeedIn" data-wow-delay="0.4s">
                             <img src="Images/dish20.jpg" alt="Dish2" class="img-responsive">
                         </div>
                     </div>
                 </div>
-                <div class="col-md-7 col-sm-7">
+                <div class="col-md-7 col-sm-7 wow rotateInUpLeft">
                    
                     <img src="Images/dish19.jpg" alt="" class="img-responsive">
                 </div>
@@ -282,57 +275,57 @@
              
              <div class="row" id="mydrink">
                  <div class="col-md-4 col-sm-12">
-                     <div class="drinkImg">
+                     <div class="drinkImg wow rotateInUpRight" data-wow-delay="0.1s">
                          <img src="Images/drink1.jpg" alt="" class="img-responsive">
                      </div>
-                     <div class="drink1">
+                     <div class="drink1 wow lightSpeedIn" data-wow-delay="0.1s">
                          <p class="product-name font-bg">Hot toddy</p>
                          <p class="product-price font-bg">£6.00</p>
                      </div>
                  </div>
                  <div class="col-md-4 col-sm-12">
-                      <div class="drinkImg">
+                      <div class="drinkImg wow rotateInUpRight" data-wow-delay="0.2s">
                          <img src="Images/drink2.jpg" alt="" class="img-responsive">
                      </div>
-                     <div class="drink1">
+                     <div class="drink1 wow lightSpeedIn" data-wow-delay="0.2s">
                          <p class="product-name font-bg">Mulled wine</p>
                          <p class="product-price font-bg">£6.00</p>
                      </div>
                      
                  </div>
                  <div class="col-md-4 col-sm-12">
-                      <div class="drinkImg">
+                      <div class="drinkImg wow rotateInUpRight" data-wow-delay="0.3s">
                          <img src="Images/drink3.jpg" alt="" class="img-responsive">
                      </div>
-                     <div class="drink1">
+                     <div class="drink1 wow lightSpeedIn" data-wow-delay="0.4s">
                          <p class="product-name font-bg">Spiced hot apple juice</p>
                          <p class="product-price">£4.00</p>
                      </div>         
                  </div>
                  
                  <div class="col-md-4 col-sm-12">
-                      <div class="drinkImg">
+                      <div class="drinkImg wow rotateInUpRight" data-wow-delay="0.1s">
                          <img src="Images/drink4.jpg" alt="" class="img-responsive">
                      </div>
-                     <div class="drink1">
+                     <div class="drink1 wow lightSpeedIn" data-wow-delay="0.1s">
                          <p class="product-name">Fresh orange juice</p>
                          <p class="product-price">£3.75</p>
                      </div>         
                  </div>
-                 <div class="col-md-4 col-sm-12">
-                      <div class="drinkImg">
+                 <div class="col-md-4 col-sm-12 wow rotateInUpRight">
+                      <div class="drinkImg wow rotateInUpRight" data-wow-delay="0.2s">
                          <img src="Images/drink5.jpg" alt="" class="img-responsive">
                      </div>
-                     <div class="drink1">
+                     <div class="drink1 wow lightSpeedIn" data-wow-delay="0.2s">
                          <p class="product-name">Iced tea</p>
                          <p class="product-price">£3.75</p>
                      </div>         
                  </div> 
                      <div class="col-md-4 col-sm-12">
-                      <div class="drinkImg">
+                      <div class="drinkImg wow rotateInUpRight" data-wow-delay="0.3s">
                          <img src="Images/drink6.jpg" alt="" class="img-responsive">
                      </div>
-                     <div class="drink1">
+                     <div class="drink1 wow lightSpeedIn" data-wow-delay="0.3s">
                          <p class="product-name">Iced coffee</p>
                          <p class="product-price">from £4.00</p>
                      </div>         
@@ -344,7 +337,7 @@
 <!--           Mini menu starts -->
             <div class="row">
                 <div class="col-md-6">
-                     <div class="mini-menu">
+                     <div class="mini-menu wow slideInLeft">
                  <ul>
                      <li>Cup of tea</li>
                      <li>Americano</li>
@@ -374,7 +367,7 @@
              </div>
                 </div>
                 <div class="col-md-6">
-                    <div class="mini-menu">
+                    <div class="mini-menu wow slideInRight">
                         <ul>
                             <li>Karma Cola (organic)</li>
                             <li>Lemonelly lemonade (organic)</li>
@@ -395,7 +388,7 @@
           <div class="seperator"></div>
 <!--             Cake for lanka-->
            
-            <div class="row" id="snack">
+            <div class="row wow jackInTheBox" id="snack">
                 <div class="col-md-5 col-sm-5 col-xs-12">
                     <div class="cake">
                       <p class="product-name">Lanka cakes</p>
@@ -416,7 +409,7 @@
              
              <div class="row">
                  <div class="col-md-6">
-                     <div class="macarons">
+                     <div class="macarons wow slideInRight">
                          <p class="product-name">
                              Macarons
                          </p>
@@ -424,7 +417,7 @@
                      </div>
                  </div>
                  <div class="col-md-6">
-                     <div class="carrot-cake">
+                     <div class="carrot-cake wow slideInLeft">
                          <p class="product-name">Carrot cake</p>
                          <p class="product-price">£4.50</p>
                      </div>
@@ -441,7 +434,7 @@
           
         </div>
           
-          <div class="container-fluid" id="tour">
+          <div class="container-fluid wow slideInLeft" id="tour">
 <section id="photostack-1" class="photostack photostack-start">
        <div>
          <figure>
@@ -535,17 +528,17 @@
           <div class="col-md-offset-2 col-md-8 col-md-offset-2 col-xs-12 col-sm-12">
             <div class="seperator"></div>
              
-              <div class="myevent"><p class="myevent-text">Reservations of <span class="text-danger">the monocle café</span> basement are available for exclusive hire only, to suit breakfast meetings, light lunch meetings, afternoon pitches and casual drinks. </p></div>
+              <div class="myevent wow slideInRight"><p class="myevent-text">Reservations of <span class="text-danger">the monocle café</span> basement are available for exclusive hire only, to suit breakfast meetings, light lunch meetings, afternoon pitches and casual drinks. </p></div>
           </div>
           
           <div class="col-md-offset-2 col-md-8 col-md-offset-2 col-xs-12 col-sm-12">
             <div class="seperator"></div>
              
-              <div class="myevent"><p class="myevent-text">Available from 08:00-22:00, seven days a week, <span class="text-danger">the monocle café</span> offers premium hospitality in a cosy setting. </p></div>
+              <div class="myevent wow slideInLeft" data-wow-delay="0.2s"><p class="myevent-text">Available from 08:00-22:00, seven days a week, <span class="text-danger">the monocle café</span> offers premium hospitality in a cosy setting. </p></div>
           </div>
           
             <div class="col-md-6 col-xs-12 col-sm-12">
-                <div class="info-box">
+                <div class="info-box wow slideInRight">
                     <p class="product-number"><span class="product-circle">01</span>
                        
                        </p>
@@ -555,19 +548,19 @@
                 </div>
             </div>    
             <div class="col-md-6 col-xs-12 col-sm-12">
-             <div class="info-box">
+             <div class="info-box wow slideInLeft">
                     <p class="product-number"><span class="product-circle">02</span></p>
                      <span class="text-danger product-name">Still and sparkling water</span>
                 </div>
             </div> 
             <div class="col-md-6 col-xs-12 col-sm-12">
-             <div class="info-box">
+             <div class="info-box wow slideInRight">
                     <p class="product-number"><span class="product-circle">03</span></p>
                      <span class="text-danger product-name">Free Wi-fi with projector</span>
                 </div>
             </div> 
             <div class="col-md-6 col-xs-12 col-sm-12">
-             <div class="info-box">
+             <div class="info-box wow slideInLeft">
                     <p class="product-number"><span class="product-circle">04</span></p>
                      <span class="text-danger product-name">Specious parking</span>
                 </div>
@@ -585,7 +578,7 @@
    <section class="final-section">
          <div class="container">
              <div class="row">
-                 <div class="col-md-6 col-sm-6" id="mycafe">
+                 <div class="col-md-6 col-sm-6 wow slideInRight" id="mycafe">
                      <div class="address">
                          <span class="product-circle">L</span>
                          <p class="contact">
@@ -647,7 +640,7 @@
                          <p>Our little café in Chiltern Street is the place to pick up the latest issue of the magazine and bump into fellow Monocle readers. As well as delicious Allpress coffee, Swedish pastries and Italian wine, there’s a fresh new lunch menu on offer. </p>
                      </div>
                  </div>
-                 <div class="col-md-6 col-sm-6">
+                 <div class="col-md-6 col-sm-6 wow slideInLeft">
                       <div class="address">
                          <span class="product-circle">T</span>
                           <p class="contact">
@@ -678,7 +671,7 @@
                              <p>The first Monocle Café offers the taste of global cuisine, impeccable coffee and serene interiors. You will also find a selection of the finest products and collaborations, as found in Monocle Shops. </p>
                          </div>
                  </div>
-                 <div class="col-md-12" id="myjob">
+                 <div class="col-md-12 wow slideInDown" id="myjob">
                      <div class="job-container">
                          <h3>Head Chef/Kitchen Team Leader</h3>
                          <br>
@@ -695,7 +688,7 @@
                        
                      </div>
                  </div>
-                 <div class="col-md-12">
+                 <div class="col-md-12 wow slideInUp">
                      <div class="job-container">
                          <h3>Part- and full-time kitchen staff</h3>
                          <br>
@@ -716,7 +709,7 @@
                  
                  
                  
-                 <div class="col-md-12">
+                 <div class="col-md-12 wow slideInDown">
                      <div class="job-container">
                          <h3>Part- and full-time barista / Service staff </h3>
                          <br>
