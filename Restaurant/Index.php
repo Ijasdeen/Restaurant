@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,7 +26,7 @@
     <script src="js/photostack.js"></script>
     <script src="js/scrollspy.min.js"></script>      
 
-     
+    
     
    
     <title>My hotel</title>
@@ -433,7 +434,7 @@
           
           
         </div>
-          
+<!--           Below codes represent the photos library -->
           <div class="container-fluid wow slideInLeft" id="tour">
 <section id="photostack-1" class="photostack photostack-start">
        <div>
