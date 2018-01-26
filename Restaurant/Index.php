@@ -790,6 +790,7 @@
               
               
                  <script>
+			 //This is the library which is gets the photos library run. 
      // [].slice.call( document.querySelectorAll( '.photostack' ) ).forEach( function( el ) { new Photostack( el ); } );
 
      new Photostack( document.getElementById( 'photostack-1' ), {
