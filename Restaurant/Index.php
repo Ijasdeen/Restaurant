@@ -576,6 +576,7 @@
     
     </div>
 </section>
+<!-- 	   Menu section for london cafe  -->
    <section class="final-section">
          <div class="container">
              <div class="row">
@@ -736,7 +737,7 @@
          </div>
          <footer>
              <div class="container-fluid">
-           
+<!--             Navbar which is fixed bottom -->
                  <nav class="navbar navbar-default navbar-fixed-bottom" id="mynavbar">
   <div class="container-fluid">
      <ul class="nav navbar-nav">
