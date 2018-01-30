@@ -3,3 +3,7 @@ This is the single page restaurant website which is developed by using HTML5, CS
 
 # Note 
 Before starting the website. Pleasem make sure that Internet connection is available on your computer. Because Bootstrap cdn has been used with it rather than downloaded files. 
+
+
+# Who am I? 
+I am a web developer using simple technology to implement an excellent projects. I'm enough hungry to eat all the new tech which I come across. 
