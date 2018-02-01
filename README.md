@@ -4,6 +4,9 @@ This is the single page restaurant website which is developed by using HTML5, CS
 # Note 
 Before starting the website. Pleasem make sure that Internet connection is available on your computer. Because Bootstrap cdn has been used with it rather than downloaded files. 
 
+#Delete
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam incidunt, porro eligendi. Accusantium inventore ducimus porro ratione similique, nihil est alias ut. Voluptas velit optio eum deserunt praesentium doloremque natus, ipsa voluptatum ipsam! Accusamus, repellat quae. Aliquam tenetur tempora dolorum possimus repudiandae laboriosam laborum iusto deleniti, magnam adipisci? Illo labore ducimus iusto voluptate obcaecati eius hic repellendus minima reiciendis, rem doloribus sit maiores nulla ea maxime perspiciatis, fugiat quod quaerat provident aliquam fuga quidem veniam consequuntur. Debitis, minus doloribus molestias?
+
 
 # Who am I? 
 I am a web developer using simple technology to implement an excellent projects. I'm enough hungry to eat all the new tech which I come across. 
