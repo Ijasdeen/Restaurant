@@ -3,4 +3,4 @@ This is the single page restaurant website which is developed by using HTML5, CS
 
  
  #Note 
- Please make sure that 
+ Please make sure that your computer
