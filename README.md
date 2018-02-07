@@ -6,3 +6,4 @@ This is the single page restaurant website which is developed by using HTML5, CS
  Please make sure that your computer is connected to the internet. Becase there are only CDN of bootstrap frameworks. There are certain downloaded files for photos gallery.
 
 HI
+Bye 
