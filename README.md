@@ -7,4 +7,4 @@ This is the single page restaurant website which is developed by using HTML5, CS
 
 
 It is going to take what is going to take 
-That is why I do 
+ 
