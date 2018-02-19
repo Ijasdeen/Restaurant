@@ -3,7 +3,7 @@ This is the single page restaurant website which is developed by using HTML5, CS
 
 
 # Purpose of the website 
-Its purpose is to show 
+Its purpose is to show display only
 
  
  
