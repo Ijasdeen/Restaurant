@@ -3,7 +3,7 @@ This is the single page restaurant website which is developed by using HTML5, CS
 
 
 # Why is this? 
-This is the one of the simplest single page website, which has been developed without backend. It can be used 
+This is the one of the simplest single page website, which has been developed without backend. It can be used for 
  
  
 
