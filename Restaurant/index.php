@@ -1,35 +1,19 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" href="css/main.css">
+     <link rel="stylesheet" href="css/main.css">
      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-        <script src="parallax.js-1.5.0/parallax.min.js"></script>
-     <link rel="stylesheet" href="font-awesome-4.7.0/font-awesome-4.7.0/css/font-awesome.min.css">
-    <script src="js/main.js"></script>
-     <link rel="stylesheet" href="css/animate.min.css">
-<link href="https://fonts.googleapis.com/css?family=Fredoka+One" rel="stylesheet"> 
+      <link rel="stylesheet" href="css/animate.min.css">
+     <link href="https://fonts.googleapis.com/css?family=Fredoka+One" rel="stylesheet"> 
    <link href="https://fonts.googleapis.com/css?family=Berkshire+Swash" rel="stylesheet">
      	<link rel="stylesheet" type="text/css" href="css/normalize.css" />
 		<link rel="stylesheet" type="text/css" href="css/demo.css" />
 		<link rel="stylesheet" type="text/css" href="css/component.css" />
 		<link href="https://fonts.googleapis.com/css?family=Ranga" rel="stylesheet"> 
 		   
-		 
-		<script src="js/modernizr.min.js"></script>
-    <script src="js/classie.js"></script>
-    <script src="js/photostack.js"></script>
-    <script src="js/scrollspy.min.js"></script>      
-
-    
-    
-   
-    <title>My hotel</title>
+     <title>My hotel</title>
 </head>
 <body>
    
@@ -47,7 +31,7 @@
             </div>
               </section>
      
-	   
+               
              
 <!--              Home section ends-->
 <!--   Menu begins-->
@@ -434,7 +418,7 @@
           
           
         </div>
-<!--           Below codes represent the photos library -->
+          
           <div class="container-fluid wow slideInLeft" id="tour">
 <section id="photostack-1" class="photostack photostack-start">
        <div>
@@ -576,7 +560,6 @@
     
     </div>
 </section>
-<!-- 	   Menu section for london cafe  -->
    <section class="final-section">
          <div class="container">
              <div class="row">
@@ -715,7 +698,6 @@
                      <div class="job-container">
                          <h3>Part- and full-time barista / Service staff </h3>
                          <br>
-                        
                              <p class="about-cv">The Monocle Café is looking for driven individuals with outstanding qualities who, ideally, have worked as baristas or in a similar environment. The ideal candidates will be professional and attentive with impeccable customer-service experience, as well as being passionate about creating outstanding coffee and serving food. You will adapt with ease to challenges, have the ability to deliver extensive product knowledge and be keen ambassadors for the Monocle brand. Attention to detail is compulsory. If this sounds like you, please send us your CV and a cover letter</p>
                        
                             <p class="job-contact"><b class="text-danger">Contact</b>
@@ -737,7 +719,7 @@
          </div>
          <footer>
              <div class="container-fluid">
-<!--             Navbar which is fixed bottom -->
+           
                  <nav class="navbar navbar-default navbar-fixed-bottom" id="mynavbar">
   <div class="container-fluid">
      <ul class="nav navbar-nav">
@@ -781,7 +763,14 @@
    
      
 <!--    Container fluid ends-->
-    
+    	<script src="js/modernizr.min.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/photostack.js"></script>
+    <script src="js/scrollspy.min.js"></script>      
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+          
     <script src="js/wow.min.js"></script>
               <script>
               new WOW().init();
@@ -789,9 +778,7 @@
               
               
               
-              
-                 <script>
-			 //This is the library which is gets the photos library run. 
+              <script type="text/javascript"> 
      // [].slice.call( document.querySelectorAll( '.photostack' ) ).forEach( function( el ) { new Photostack( el ); } );
 
      new Photostack( document.getElementById( 'photostack-1' ), {
@@ -811,10 +798,10 @@
      } );
    </script>
     
-    <script>
+    <script type="text/javascript">
     var menu=document.querySelector(".navbar");
        scrollSpy(menu, 1);
     </script>
-     
+     	
 </body>
 </html>
